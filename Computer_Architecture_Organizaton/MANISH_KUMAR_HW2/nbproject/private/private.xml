@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/millerti/NetBeansProjects/code/CpuSimulator_Reference/src/implementation/AllMyStages.java</file>
+            <file>file:/Users/millerti/NetBeansProjects/code/CpuSimulator_Reference/src/baseclasses/InstructionBase.java</file>
+            <file>file:/Users/millerti/NetBeansProjects/code/CpuSimulator_Reference/src/implementation/MyCpuCore.java</file>
+            <file>file:/Users/millerti/NetBeansProjects/code/CpuSimulator_Reference/src/baseclasses/CpuCore.java</file>
+            <file>file:/Users/millerti/NetBeansProjects/code/CpuSimulator_Reference/src/implementation/AllMyLatches.java</file>
+            <file>file:/Users/millerti/NetBeansProjects/code/CpuSimulator_Reference/src/implementation/GlobalData.java</file>
+            <file>file:/Users/millerti/NetBeansProjects/code/CpuSimulator_Reference/src/baseclasses/PipelineStageBase.java</file>
+            <file>file:/Users/millerti/NetBeansProjects/code/CpuSimulator_Reference/src/implementation/MyALU.java</file>
+            <file>file:/Users/millerti/NetBeansProjects/code/CpuSimulator_Reference/src/utilitytypes/IGlobals.java</file>
+            <file>file:/Users/millerti/NetBeansProjects/code/CpuSimulator_Reference/src/utilitytypes/EnumOpcode.java</file>
+            <file>file:/Users/millerti/NetBeansProjects/code/CpuSimulator_Reference/src/baseclasses/PipelineRegister.java</file>
+            <file>file:/Users/millerti/NetBeansProjects/code/CpuSimulator_Reference/src/cpusimulator/CpuSimulator.java</file>
+        </group>
+    </open-files>
+</project-private>
