@@ -1,1 +1,0 @@
-# MANISH_KUMAR_HW2
